@@ -2,5 +2,5 @@
 My C, C++ Projects
 
 # 1. K-Lotto
-https://www.dhlottery.co.kr/gameResult.do?method=byWin
-Make Number Project
+1. https://www.dhlottery.co.kr/gameResult.do?method=byWin
+2. Make Number Project
