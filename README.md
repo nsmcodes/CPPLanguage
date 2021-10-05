@@ -7,3 +7,4 @@ My C, C++ Projects
 
 # 2. MosterMaker
 1. Strategy Design Pattern
+2. StarCraft Motif
